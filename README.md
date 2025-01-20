@@ -1,4 +1,4 @@
-# n8n-nodes-odoo
+# n8n-nodes-odoo(usable as tool)
 
 ![n8n.io - Workflow Automation](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png)
 
