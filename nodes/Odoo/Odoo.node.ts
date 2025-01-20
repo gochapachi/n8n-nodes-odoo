@@ -42,6 +42,7 @@ export class Odoo implements INodeType {
 		},
 		inputs: ['main'],
 		outputs: ['main'],
+		usableAsTool: true,
 		credentials: [
 			{
 				name: 'odooApi',
